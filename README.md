@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitlearner101" alt="gitlearner101" /></a> </p>
 
-- 🌱 I’m currently learning **Python, DSA in C**
+- 🌱 I’m currently learning **Java, DSA, Automation**
 
 - 💬 Ask me about **anything**
 
