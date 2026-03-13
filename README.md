@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="MasterHead" />
 
 <h1 align="center">Hi 👋, I'm Syed Suhaib Ahmed Khair</h1>
-<h3 align="center">ML Engineer | Uncertainty-Aware Systems | Edge AI</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
+<h3 align="center">Machine Learning Enthusiast | Uncertainty-Aware Systems | Edge AI | Model Deployment and Optimizations | Applicative AI/ML</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitlearner101&label=Profile%20views&color=0e75b6&style=flat" alt="gitlearner101" /> </p>
 
-# 💫 About Me:
-I'm interested in pythonic langs and frameworks, experienced in core python , dsa, automation, lightweight web dev, ML<br>Exploring ML and DL, edge AI, MAS (Multi-agent Systems)<br><br>Looking to collaborate on high-quality projects
+# About Me:
+I'm interested in building and deploying robust AI/ML models with a focus on optimization and real-world application.<br>Exploring ML and DL, edge AI, MAS (Multi-agent Systems)<br><br>Looking to collaborate on high-quality projects
 
 
 ## 🌐 Socials:
