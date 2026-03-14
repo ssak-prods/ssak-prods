@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="MasterHead" />
 
 <h1 align="center">Hi 👋, I'm Syed Suhaib Ahmed Khair</h1>
-<h3 align="center">Machine Learning Enthusiast | Uncertainty-Aware Systems | Edge AI | Model Deployment and Optimizations | Applicative AI/ML</h3>
+<h3 align="center">Machine Learning Enthusiast | Uncertainty-Aware Systems | Edge AI | Experience: Model Deployment and Optimizations | Applicative AI/ML | Embedded AI | AI,ML in Fullstack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitlearner101&label=Profile%20views&color=0e75b6&style=flat" alt="gitlearner101" /> </p>
 
