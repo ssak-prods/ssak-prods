@@ -19,7 +19,6 @@ I'm interested in building and deploying robust AI/ML models with a focus on opt
 # 📊 GitHub Stats:
 ![Total Commits](https://img.shields.io/badge/Total%20Commits-1009%2B-brightgreen?style=flat&logo=github) ![Years Active](https://img.shields.io/badge/Active%20Since-Jul%202024-blue?style=flat&logo=github)
 
-<img src="./contribution_graph.svg" alt="Contribution Graph – Jul 2024 to Mar 2026" />
 
 
 ---
