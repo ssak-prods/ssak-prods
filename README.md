@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitlearner101&label=Profile%20views&color=0e75b6&style=flat" alt="gitlearner101" /> </p>
 
 # About Me:
-I'm interested in building and deploying robust AI/ML models with a focus on optimization and real-world application.<br>Exploring ML and DL, edge AI, MAS (Multi-agent Systems)<br><br>Looking to collaborate on high-quality projects
+I'm interested in building and deploying robust AI/ML models with a focus on optimization and real-world application.<br>Exploring ML and DL, edge AI, MAS (Multi-agent Systems)<br><br>Accepting collaborations on high-quality projects! 😊
 
 
 ## 🌐 Socials:
