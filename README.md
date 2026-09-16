@@ -23,21 +23,16 @@
 
 > Not demos. Not tutorials. Running software, live clients, real usage.
 
-| | Project | What it does |
-|:---:|:---|:---|
-| 🤖 | **[Multica-Linux](https://github.com/ssak-prods/multica-linux)** | Autonomous multi-agent coding system — 24/7 on a Raspberry Pi 5. Send a spec via Telegram, return to finished code. 1,994 lines of custom Go. 29 tasks shipped autonomously. |
-| ⚡ | **[PocketCMO](https://pocketcmo.io)** | AI-powered SaaS platform — live, German-market B2B clients. 14 parallel writing agents, adversarial quality gates, bilingual PDF delivery. Built and maintained solo. |
-| 🔌 | **[ConfluxAI](https://marketplace.visualstudio.com/items?itemName=ConfluxAI.conflux-ai)** | VS Code extension — syncs team architectural decisions across IDEs in under 5 seconds. Custom MCP server, offline-first semantic search, live marketplace with real users. |
-
----
-
-## Currently
-
-```
-⚙  Competing      —  MSME 2026  ·  SIH 2026  ·  specs locked, shipping in progress
-🤝  Engaged        —  client-facing software, weekly deploys  [undisclosed]
-🔭  Exploring      —  systems that keep working while you sleep
-```
+| Project | What it does |
+|:---|:---|
+| **[Multica-Linux](https://github.com/ssak-prods/multica-linux)** | Autonomous multi-agent coding system — 24/7 on a Raspberry Pi 5. Send a spec via Telegram, return to finished code. 1,994 lines of custom Go. 29 tasks shipped autonomously. |
+| **[PocketCMO](https://pocketcmo.io)** | AI-powered SaaS platform — live, German-market B2B clients. 14 parallel writing agents, adversarial quality gates, bilingual PDF delivery. Built and maintained solo. |
+| **[ConfluxAI](https://marketplace.visualstudio.com/items?itemName=ConfluxAI.conflux-ai)** | VS Code extension — syncs team architectural decisions across IDEs in under 5 seconds. Custom MCP server, offline-first semantic search, live marketplace with real users. |
+| **[Pi-Control MCP](https://github.com/ssak-prods/pi-control-mcp)** | MCP server running on a Raspberry Pi 5 behind a Cloudflare Tunnel — plug the Pi's filesystem, processes, and agents into any AI or IDE instantly. Works with ChatGPT, Perplexity, Gemini, Claude, Cursor, Devin, Copilot, Antigravity — no SSH, no config, one connection. |
+| **[WaterSafe](https://github.com/ssak-prods)** | ML × IoT water-quality monitoring system. ESP32 + C++ firmware, Node.js dashboard, real-time anomaly detection. 2nd place at AIESEC Global Goals Hackathon 2026 (IIIT Hyderabad, ~70 teams). |
+| **[OptoGuard](https://github.com/ssak-prods)** | Real-time webcam object detection — YOLOv8 + OpenCV, runs on-device on a Raspberry Pi 5 without GPU. Python inference pipeline optimized for CPU-only ARM64 deployment. |
+| **Traderman** | Algorithmic trading system — autonomous signal generation, execution, and portfolio management. |
+| **SIH Bus ETA** | Smart India Hackathon project — real-time city bus ETA prediction engine using live GPS feeds and ML-based arrival estimation for public transit. |
 
 ---
 
