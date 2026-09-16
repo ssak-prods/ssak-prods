@@ -1,27 +1,104 @@
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="MasterHead" />
+﻿<div align="center">
 
-<h1 align="center">Hi 👋, I'm Syed Suhaib Ahmed Khair</h1>
-<h3 align="center">Machine Learning Enthusiast | Uncertainty-Aware Systems | Edge AI | Experienced in Model Deployment and Real-world Scaling with active Consumer Base| Applicative AI/ML | Embedded AI | AI,ML in Fullstack</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Autonomous+AI+Systems;Production+SaaS+%C2%B7+Real+Clients;Multi-Agent+Orchestration;Solopreneur.+Engineer.+Builder." alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitlearner101&label=Profile%20views&color=0e75b6&style=flat" alt="gitlearner101" /> </p>
+<br/>
 
-# About Me:
-I'm interested in building and deploying robust AI/ML models with a focus on optimization and real-world application.<br>Exploring ML and DL, edge AI, MAS (Multi-agent Systems)<br><br>Accepting collaborations on high-quality projects! 😊
+**Syed Suhaib Ahmed Khair** &nbsp;·&nbsp; Hyderabad, India
 
+*Final-year CS. Building things that run in production.*
 
-## 🌐 Socials:
-[LinkedIn](https://www.linkedin.com/in/syed-suhaib-ahmed-03b799278/) 
-| [Medium](https://medium.com/@sdsuhaib10fcb) 
-| [Email](suhaibk.work@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) 
-# 📊 GitHub Stats:
-![Total Commits](https://img.shields.io/badge/Total%20Commits-1009%2B-brightgreen?style=flat&logo=github) ![Years Active](https://img.shields.io/badge/Active%20Since-Jul%202024-blue?style=flat&logo=github)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-suhaib-ahmed-03b799278/)
+[![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat&logoColor=black)](https://huggingface.co/ssak-prods)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@sdsuhaib10fcb)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:suhaibk.work@gmail.com)
 
-
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ssak-prods&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I've Shipped
+
+> Not demos. Not tutorials. Running software, live clients, real usage.
+
+| | Project | What it does |
+|:---:|:---|:---|
+| 🤖 | **[Multica-Linux](https://github.com/ssak-prods/multica-linux)** | Autonomous multi-agent coding system — 24/7 on a Raspberry Pi 5. Send a spec via Telegram, return to finished code. 1,994 lines of custom Go. 29 tasks shipped autonomously. |
+| ⚡ | **[PocketCMO](https://pocketcmo.io)** | AI-powered SaaS platform — live, German-market B2B clients. 14 parallel writing agents, adversarial quality gates, bilingual PDF delivery. Built and maintained solo. |
+| 🔌 | **[ConfluxAI](https://marketplace.visualstudio.com/items?itemName=ConfluxAI.conflux-ai)** | VS Code extension — syncs team architectural decisions across IDEs in under 5 seconds. Custom MCP server, offline-first semantic search, live marketplace with real users. |
+
+---
+
+## Currently
+
+```
+⚙  Competing      —  MSME 2026  ·  SIH 2026  ·  specs locked, shipping in progress
+🤝  Engaged        —  client-facing software, weekly deploys  [undisclosed]
+🔭  Exploring      —  systems that keep working while you sleep
+```
+
+---
+
+## Stack
+
+**Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+**Build**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**AI / ML**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat)
+
+**Infra**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ssak-prods&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssak-prods&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ssak-prods&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ssak-prods/ssak-prods/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ssak-prods&label=profile+views&color=58A6FF&style=flat" />
+</div>
