@@ -21,7 +21,7 @@
 
 ## What I've Shipped
 
-> Not demos. Not tutorials. Running software, live clients, real usage.
+> Running software, live clients, real user base. I've built intelligent systems that rewire their own architecture or parts of it for dynamic applications.
 
 | Project | What it does |
 |:---|:---|
